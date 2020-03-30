@@ -32,6 +32,6 @@ set in "APBS.xlsx" file shows some of the characteristics of the leading Asia- P
 From the above table we can observe that local tuition and foreign tuition have same minimum, maximum and range values. 
 
 ##### 2.Difference between local and foreign tuition costs:
-<img src="Business-Schools-of-Asia-Pacific/images/Rplot_LT_FT.png">
+![Rplot_LT_FT](https://user-images.githubusercontent.com/22431752/77966056-2edbb400-7297-11ea-94d8-687647117993.png)
 
 Out of the 25 Asia-Pacific business schools, 10 schools have the same tuition fee for both local and foreign students. The highest difference occurred in Lahore University of Management Sciences, where international students pay $15050 more than locals. The least difference was at De La Salle University (Manila), with an extra fee of $300. 3 schools' have the second-highest difference between local and foreign tuition fees, where they fall in the range of $12000 to $14000. In the remaining 10 schools, overseas students pay an additional fee of about $1000 - $10000 when compared to residents.
