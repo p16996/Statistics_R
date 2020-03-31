@@ -92,4 +92,5 @@ For instance, if the company adopts the best-case outline and orders quantities 
 Therefore, for new products, it is always preferable to order in limited quantities during the initial stages so that the company does not face any stockout or overstocking circumstances and, if the product is a failure, then there won't be much loss to the company. Going forward, if the sales continue to improve, then the company can increase the order quantities.
 
 
-###### Reference : Statistics for Business & Economics
+###### Reference : Statistics for Business & Economics, David R. Anderson, Dennis J. Sweeney, Thomas A. Williams, Jeffrey D. Camm, James J. Cochran
+
