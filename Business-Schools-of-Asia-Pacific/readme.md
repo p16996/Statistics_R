@@ -60,3 +60,5 @@ From the boxplot, we can observe the following:
 * Upper limit: Q3+1.5(IQR)= 52500+1.5*36500=107250 
 * There are no outliers in the starting salaries data.
 * The vertical line present in the box is at the location of the median. As the median is closer towards the right side of the box, it shows that the distribution is negatively skewed.
+
+###### Reference : Statistics for Business & Economics, David R. Anderson, Dennis J. Sweeney, Thomas A. Williams, Jeffrey D. Camm, James J. Cochran
