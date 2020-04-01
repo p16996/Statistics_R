@@ -69,4 +69,4 @@ However on further analyzing the data from figure 3, we would recommend a homepa
 ![script_WA](https://user-images.githubusercontent.com/22431752/78179029-68d2c480-7415-11ea-8009-cde1bf3d2eb8.JPG)
 ###### Figure 5: Quantiles of white background with Ariel font data
 
-Reference : Statistics for Business & Economics, David R. Anderson, Dennis J. Sweeney, Thomas A. Williams, Jeffrey D. Camm, James J. Cochran
+###### Reference : Statistics for Business & Economics, David R. Anderson, Dennis J. Sweeney, Thomas A. Williams, Jeffrey D. Camm, James J. Cochran
